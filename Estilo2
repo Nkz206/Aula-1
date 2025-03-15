@@ -3,7 +3,7 @@ body {
     color: white;
 }
 #h1__green{
-    color: green;
+    color: White;
 }
 strong{
     color: blue;
