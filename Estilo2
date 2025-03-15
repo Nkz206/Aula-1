@@ -3,5 +3,8 @@ body {
     color: white;
 }
 #h1__green{
-    color: green
+    color: green;
+}
+strong{
+    color: blue;
 }
