@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang ="pt-br">
+<head>
+<title>portifolio</title>
+</head>
+<link rel="stylesheet" href="Estilo1.css">
+
+<body>
+<header>
+<main>
+
+ <h1 id="h1__green"><span>Alisson</span></h1>
+    <strong>
+    <h1>Entendendo e Aprimorando o
+    <br>Front-end de qualidade!
+</strong></h1>
+
+ <p>
+     Estudante de Engenharia de Software — atualmente no 3º período — 
+     <br>Com foco em desenvolvimento Front-end, HTML e C#.
+     <br>Minha jornada começou com C, aprimorando lógica e resolução de problemas. Agora,
+     <br>estou expandindo meus horizontes com HTML para estruturar interfaces web e C# 
+     <br>para criar aplicações mais completas e robustas.
+     <br>💡 Meta: Tornar-me um desenvolvedor versátil, criando interfaces modernas e soluções funcionais que se destacam.
+     <br>🚀 Motivação: Evoluir todos os dias, aprendendo e praticando para transformar ideias em realidade digital!</br>
+
+     <br>
+     
+     <img src="C:\Users\aliss\OneDrive\Imagens\Screenshots\Captura de tela 2024-10-01 131737.png">
+</main>
+<footer>
+    <div class="social-buttons">
+    <a href="https://www.linkedin.com/in/seu-perfil" target="_blank" class="btn linkedin">LinkedIn</a>
+    <a href="https://github.com/seu-usuario" target="_blank" class="btn github">GitHub</a>
+    <a href="https://www.instagram.com/seu-usuario" target="_blank" class="btn instagram">Instagram</a>
+</div>
+</footer>
+</header>
+</body>
